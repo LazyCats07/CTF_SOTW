@@ -80,6 +80,9 @@ $no = 0;
         <figcaption class="blockquote-footer">
             Emang boleh se lama ini masuk nya ? 😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️
         </figcaption>
+        <figcaption class="blockquote-footer">
+            Klik <a href="https://drive.google.com/drive/folders/1DzSknLOl6V8Sv-egbvUcQcVY3Y2uNa0j?usp=sharing">disini</a> untuk step selanjutnya
+        </figcaption>
     </figure>
 
     <!-- Alert -->
